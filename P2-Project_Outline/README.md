@@ -7,12 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Recipe Finder App: This app will provide suggested recipes based on available ingredients of the client. The client can enter ingredients they have available to them. The app will then search the database/api for matching recipes with those ingredients and return the link to the recipe. Other search options may be available as well.
+
 ### Features
-Include Features here
+Available Ingredients: Users can enter available ingredients on which to initiate a recipe search.
+Search: Users will be able to search for available recipes on the basis of varying criteria.
+Favorites: Users can save recipes to a favorites list.
+
 ### Technologies
-Include Technologies here
+Either Java/Spring Boot/MySQL/Thymeleaf or Angular/MySQL/Others.
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+More applicable knowledge of Angular, API and database integration.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/vi60odpC/project
